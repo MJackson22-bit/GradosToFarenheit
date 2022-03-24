@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KPractice 1</string>
+    <string name="convertir">Convertir</string>
+    <string name="de_celcius_a_farenheit">De Celcius a Farenheit</string>
+    <string name="de_farenheit_a_celcius">De Farenheit a Celcius</string>
+    <string name="cantidad_a_convertir">Cantidad a convertir</string>
+</resources>
